@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="0.137" tests="2" skipped="0" failures="2" errors="0">
-<testcase classname="US001 TechProEducation Sayfasi Testi" name="TC03 Sayfada Arama Yapar" time="0.017">
+<testsuite name="Cucumber" time="0.331" tests="2" skipped="0" failures="2" errors="0">
+<testcase classname="US001 TechProEducation Sayfasi Testi" name="TC03 Sayfada Arama Yapar" time="0.038">
 <failure/>
 <system-out><![CDATA[
 Given kullanici techpro sayfasina gider.....................................undefined
@@ -10,7 +10,7 @@ And sayfa basliginin Mobile icerdigini test eder............................skip
 And sayfayi kapatir.........................................................skipped
 ]]></system-out>
 </testcase>
-<testcase classname="US002 Amazon Urun Arama Testi" name="TC01 Amazonda iphone aramasi" time="0.003">
+<testcase classname="US002 Amazon Urun Arama Testi" name="TC01 Amazonda iphone aramasi" time="0.011">
 <failure/>
 <system-out><![CDATA[
 Given kullanici amazon sayfasina gider......................................undefined
