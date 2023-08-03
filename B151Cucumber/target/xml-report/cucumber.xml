@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.137" tests="2" skipped="0" failures="2" errors="0">
+<testcase classname="US001 TechProEducation Sayfasi Testi" name="TC03 Sayfada Arama Yapar" time="0.017">
+<failure/>
+<system-out><![CDATA[
+Given kullanici techpro sayfasina gider.....................................undefined
+Then arama kutusunda mobile aratir..........................................skipped
+When cikan dropdown da mobile developer linkine tiklar......................skipped
+And sayfa basliginin Mobile icerdigini test eder............................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="US002 Amazon Urun Arama Testi" name="TC01 Amazonda iphone aramasi" time="0.003">
+<failure/>
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................undefined
+And sayfayi yeniler.........................................................skipped
+And kullnici aramaKutusunda iphone aratir...................................skipped
+And basligin iphone icerdigini test eder....................................skipped
+And sayfayi kapatir.........................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
